@@ -1,7 +1,7 @@
 # r_case_self
 [Source](../design_process.md#immerse)
 
-<details><summary>What do I feel makes it inconvenient/unsafe/unpleasant to walk in Scottsdale?</summary>
+<details><summary>Draft: What do I feel makes it inconvenient/unsafe/unpleasant to walk in Scottsdale?</summary>
 
 * Noisy cars - unpleasant
 * Fast cars - unsafe
