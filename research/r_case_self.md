@@ -48,6 +48,7 @@
             <li><b>Routes not direct</b></li>
             <li><b>Destinations far away</b></li>
             <li>Have to wait at crosswalks</li>
+            <li>Have to speedwalk crosswalks</li>
         </ol></td>
     </tr>
 </table>
