@@ -22,3 +22,4 @@ This document outlines the project definition and creation phases. Please see [`
 * Is it really that inconvenient to walk in Scottsdale?
   - [ ] Research average number of lanes needed to cross, etc.
   - [ ] Research average distance to nearest crosswalk, etc.
+  - Street data: https://data.scottsdaleaz.gov/datasets/COS-GIS::street-centerlines/explore?location=33.458151%2C-111.833447%2C18.00&showTable=true.
