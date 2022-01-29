@@ -16,9 +16,9 @@ This document outlines the project definition and creation phases. Please see [`
 ## Immerse
 <!-- ### Research questions -->
 * Is Scottsdale really more dangerous to walk in? (How do we define dangerous?)
-  - [] Research statistics.
+  - [ ] Research statistics.
 * How do people feel about Scottsdale's walkability? 
-  - [] What do *I* feel makes it inconvenient/unsafe/unpleasant to walk in Scottsdale?
+  - [ ] What do *I* feel makes it inconvenient/unsafe/unpleasant to walk in Scottsdale?
 * Is it really that inconvenient to walk in Scottsdale?
-  - [] Research average number of lanes needed to cross, etc.
-  - [] Research average distance to nearest crosswalk, etc.
+  - [ ] Research average number of lanes needed to cross, etc.
+  - [ ] Research average distance to nearest crosswalk, etc.
