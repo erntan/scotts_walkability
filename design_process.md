@@ -19,6 +19,6 @@ This document outlines the project definition and creation phases. Please see [`
   - [ ] Research statistics.
 * How do people feel about Scottsdale's walkability? 
   - [x] What do *I* feel makes it inconvenient/unsafe/unpleasant to walk in Scottsdale? [Priority List](C:\Users\Ern\Documents\projects\scotts_walkability\research\r_case_self.md)
-* Is it really that inconvenient to walk in Scottsdale?
+* Is it really that inconvenient to walk in Scottsdale? [Research](C:\Users\Ern\Documents\projects\scotts_walkability\research\safety.rmd)
   - [ ] Research average number of lanes needed to cross, etc.
   - [ ] Research average distance to nearest crosswalk, etc.
